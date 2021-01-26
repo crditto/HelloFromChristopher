@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Hello, my name is Christopher");
         System.out.printf("Hello, Christopher, My name is %s.", "Brayton");
         //Here's some stuff I'm gonna revert
-        System.out.println("This is a silly line, he eats raw hockey pucks...");
+        //I made a new branch instead, since I couldn't figure out how to cancel a commit in IntelliJ
     }
 }
