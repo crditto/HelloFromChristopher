@@ -11,7 +11,7 @@ public class Main {
         teamMatesNames.add("Brayton");
         teamMatesNames.add("Darren");
 
-        System.out.printf("Hello, my name is %s", yourName + "!\n");
+        System.out.printf("Hello, my name is %s!%n", yourName);
 
         for (String name : teamMatesNames             ) {
             System.out.printf("Hello, " + yourName + " my name is %s!%n", name);
