@@ -10,6 +10,7 @@ public class Main {
         List<String> teamMatesNames = new ArrayList<>();
         teamMatesNames.add("Brayton");
         teamMatesNames.add("Darren");
+        teamMatesNames.add("Mark");
 
         System.out.printf("Hello, my name is %s!%n", yourName);
 
